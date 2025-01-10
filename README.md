@@ -4,7 +4,7 @@
 
 ## ÁSZF
 
-_A BOT MEGHÍVÁSA, ILLETVE HASZNÁLATA AZT JELENTI, HOGY MEGÉRTETTED, ÉS ELFOGADTAD AZ ALÁBBIAKAT, ILLETVE ELFOGADOD, HOGY AZ ÁLTALÁNOS SZERZŐDÉSI FELTÉTELEKET BÁRMIKOR MÓDOSÍTHATJUK! 
+_A BOT MEGHÍVÁSA, ILLETVE HASZNÁLATA AZT JELENTI, HOGY MEGÉRTETTED, ÉS ELFOGADTAD AZ ALÁBBIAKAT, ILLETVE ELFOGADOD, HOGY AZ ÁLTALÁNOS SZERZŐDÉSI FELTÉTELEKET BÁRMIKOR MÓDOSÍTHATJUK!_
 
 
 ### 1. Bevezetés
@@ -66,6 +66,6 @@ Bármilyen kérdés vagy észrevétel esetén lépjen kapcsolatba velünk a köv
 reaperbot@gmail.com](info.reaperbot@gmail.com).
 
 
-`Utolsó módosítás: 2025 jan. 6`
+`Utolsó módosítás: 2025 jan.10`
 
  
